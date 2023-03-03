@@ -1,1 +1,1 @@
-This is my README file for the alx-pre_course repository
+This is my README file for the alx-pre_course repository.
